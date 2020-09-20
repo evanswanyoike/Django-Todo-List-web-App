@@ -1,7 +1,1 @@
-"# DjangoTodoList" 
-"# DjangoTodoList" 
-"# DjangoTodoList" 
-"# DjangoTodoList" 
-"# DjangoTodoList" 
-"# DjangoTodoList" 
-"# DjangoTodoList" 
+Simple Todos list created in django
